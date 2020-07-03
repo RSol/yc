@@ -1,0 +1,17 @@
+{
+    "name": "rsol/youcontrol",
+    "type": "project",
+    "authors": [
+        {
+            "name": "RSol",
+            "email": "slava.rudnev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
